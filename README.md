@@ -22,7 +22,7 @@ Beginner-friendly with html and CSS
 ### Links
 
 - Solution URL: https://github.com/lucifermrng9-ship-it/Frontend-solution.git
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here]( https://lucifermrng9-ship-it.github.io/Frontend-solution/)
 
 
 ### Built with
