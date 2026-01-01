@@ -17,12 +17,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 Beginner-friendly with html and CSS
 ### Screenshot
-![Qr content](<Screenshot 2025-12-31 061441.jpg>)
+![Qr content](<Screenshot 2026-01-01 061441.jpg>)
 
 ### Links
 
 - Solution URL: https://github.com/lucifermrng9-ship-it/Frontend-solution.git
-- Live Site URL: [Add live site URL here]( https://lucifermrng9-ship-it.github.io/Frontend-solution/)
+- Live Site URL: https://lucifermrng9-ship-it.github.io/Frontend-solution/
 
 
 ### Built with
