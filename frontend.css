@@ -12,37 +12,40 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    min-height: 100vh;
 }
 
-/*--------container--------*/
-.container {
+/*--------container layout--------*/
+.card {
     background-color: hsl(0, 0%, 100%);
     box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
     padding: 20px;
     text-align: center;
-    max-width: 400px;
-    border-radius: 15px;
+    max-width: 380px;
+    border-radius: 10px;
 }
 
 /*--------image--------*/
-.container img {
+.content img {
     width: 100%;
     border-radius: 10px;
     margin-bottom: 20px;
 }
 
 /*--------heading--------*/
-.container h1 {
+.content h1 {
     font-size: 1.5rem;
     color: hsl(218, 44%, 22%);
     margin-bottom: 15px;
+    padding: 0 10px;
+      
 }
 
-.container p {
+.content p {
     font-size: 1rem;
     color: hsl(220, 15%, 55%);
     line-height: 1.5;
+    padding: 0 30px;
 }
 
 /*--------attribution--------*/
