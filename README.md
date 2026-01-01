@@ -17,7 +17,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 Beginner-friendly with html and CSS
 ### Screenshot
-![Qr content](<Screenshot 2026-01-01 061441.jpg>)
+![QR content](<Screenshot 2026-01-01 053443.jpg>)
 
 ### Links
 
